@@ -1,0 +1,6 @@
+echo "Hi This is the first main server"
+touch mohimor
+ls
+ls -ltr mohimor
+pwd
+uptime;uname -r
